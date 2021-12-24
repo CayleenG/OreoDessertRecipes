@@ -1,0 +1,1 @@
+Install the font on 'Font' folder for better experience!
